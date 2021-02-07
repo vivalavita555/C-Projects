@@ -1,0 +1,13 @@
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csprojAssemblyReference.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache

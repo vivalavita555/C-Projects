@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Learning CSH/1.0.0": {
+        "runtime": {
+          "Learning CSH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Learning CSH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

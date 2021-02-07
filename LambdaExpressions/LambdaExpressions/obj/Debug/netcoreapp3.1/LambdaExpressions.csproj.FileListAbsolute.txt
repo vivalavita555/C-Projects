@@ -1,0 +1,13 @@
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.exe
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.deps.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.runtimeconfig.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.runtimeconfig.dev.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.dll
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\netcoreapp3.1\LambdaExpressions.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.csprojAssemblyReference.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.AssemblyInfoInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.AssemblyInfo.cs
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.dll
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\netcoreapp3.1\LambdaExpressions.genruntimeconfig.cache

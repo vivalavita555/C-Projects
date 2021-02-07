@@ -1,0 +1,11 @@
+C:\Users\Brandon\source\repos\KillerPicker3000\KillerPicker3000\bin\Debug\netcoreapp3.0\KillerPicker3000.exe
+C:\Users\Brandon\source\repos\KillerPicker3000\KillerPicker3000\bin\Debug\netcoreapp3.0\KillerPicker3000.deps.json
+C:\Users\Brandon\source\repos\KillerPicker3000\KillerPicker3000\bin\Debug\netcoreapp3.0\KillerPicker3000.runtimeconfig.json
+C:\Users\Brandon\source\repos\KillerPicker3000\KillerPicker3000\bin\Debug\netcoreapp3.0\KillerPicker3000.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\KillerPicker3000\KillerPicker3000\bin\Debug\netcoreapp3.0\KillerPicker3000.dll
+C:\Users\Brandon\source\repos\KillerPicker3000\KillerPicker3000\bin\Debug\netcoreapp3.0\KillerPicker3000.pdb
+C:\Users\Brandon\source\repos\KillerPicker3000\KillerPicker3000\obj\Debug\netcoreapp3.0\KillerPicker3000.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\KillerPicker3000\KillerPicker3000\obj\Debug\netcoreapp3.0\KillerPicker3000.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\KillerPicker3000\KillerPicker3000\obj\Debug\netcoreapp3.0\KillerPicker3000.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\KillerPicker3000\KillerPicker3000\obj\Debug\netcoreapp3.0\KillerPicker3000.dll
+C:\Users\Brandon\source\repos\KillerPicker3000\KillerPicker3000\obj\Debug\netcoreapp3.0\KillerPicker3000.pdb

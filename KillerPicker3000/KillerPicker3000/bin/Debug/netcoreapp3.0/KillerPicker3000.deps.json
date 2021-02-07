@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "KillerPicker3000/1.0.0": {
+        "runtime": {
+          "KillerPicker3000.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KillerPicker3000/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

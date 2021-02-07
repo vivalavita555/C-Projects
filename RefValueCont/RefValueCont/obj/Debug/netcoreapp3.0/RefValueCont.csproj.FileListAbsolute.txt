@@ -1,0 +1,10 @@
+C:\Users\Brandon\source\repos\RefValueCont\RefValueCont\bin\Debug\netcoreapp3.0\RefValueCont.exe
+C:\Users\Brandon\source\repos\RefValueCont\RefValueCont\bin\Debug\netcoreapp3.0\RefValueCont.deps.json
+C:\Users\Brandon\source\repos\RefValueCont\RefValueCont\bin\Debug\netcoreapp3.0\RefValueCont.runtimeconfig.json
+C:\Users\Brandon\source\repos\RefValueCont\RefValueCont\bin\Debug\netcoreapp3.0\RefValueCont.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\RefValueCont\RefValueCont\bin\Debug\netcoreapp3.0\RefValueCont.dll
+C:\Users\Brandon\source\repos\RefValueCont\RefValueCont\bin\Debug\netcoreapp3.0\RefValueCont.pdb
+C:\Users\Brandon\source\repos\RefValueCont\RefValueCont\obj\Debug\netcoreapp3.0\RefValueCont.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\RefValueCont\RefValueCont\obj\Debug\netcoreapp3.0\RefValueCont.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\RefValueCont\RefValueCont\obj\Debug\netcoreapp3.0\RefValueCont.dll
+C:\Users\Brandon\source\repos\RefValueCont\RefValueCont\obj\Debug\netcoreapp3.0\RefValueCont.pdb

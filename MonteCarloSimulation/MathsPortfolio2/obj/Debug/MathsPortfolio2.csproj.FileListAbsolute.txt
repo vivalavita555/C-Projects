@@ -1,0 +1,16 @@
+D:\Mono\MathsPortfolio2\MathsPortfolio2\bin\Debug\MathsPortfolio2.exe.config
+D:\Mono\MathsPortfolio2\MathsPortfolio2\obj\Debug\MathsPortfolio2.csprojResolveAssemblyReference.cache
+D:\Mono\MathsPortfolio2\MathsPortfolio2\bin\Debug\MathsPortfolio2.exe
+D:\Mono\MathsPortfolio2\MathsPortfolio2\bin\Debug\MathsPortfolio2.pdb
+D:\Mono\MathsPortfolio2\MathsPortfolio2\obj\Debug\MathsPortfolio2.exe
+D:\Mono\MathsPortfolio2\MathsPortfolio2\obj\Debug\MathsPortfolio2.pdb
+D:\Dev\Mono\Maths assessments - incomplete\MathsPortfolio2\MathsPortfolio2\bin\Debug\MathsPortfolio2.exe.config
+D:\Dev\Mono\Maths assessments - incomplete\MathsPortfolio2\MathsPortfolio2\obj\Debug\MathsPortfolio2.exe
+D:\Dev\Mono\Maths assessments - incomplete\MathsPortfolio2\MathsPortfolio2\obj\Debug\MathsPortfolio2.pdb
+C:\Users\Brandon\Downloads\MathsPortfolio2\MathsPortfolio2\bin\Debug\MathsPortfolio2.exe.config
+C:\Users\Brandon\Downloads\MathsPortfolio2\MathsPortfolio2\bin\Debug\MathsPortfolio2.exe
+C:\Users\Brandon\Downloads\MathsPortfolio2\MathsPortfolio2\bin\Debug\MathsPortfolio2.pdb
+C:\Users\Brandon\Downloads\MathsPortfolio2\MathsPortfolio2\obj\Debug\MathsPortfolio2.csprojAssemblyReference.cache
+C:\Users\Brandon\Downloads\MathsPortfolio2\MathsPortfolio2\obj\Debug\MathsPortfolio2.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Downloads\MathsPortfolio2\MathsPortfolio2\obj\Debug\MathsPortfolio2.exe
+C:\Users\Brandon\Downloads\MathsPortfolio2\MathsPortfolio2\obj\Debug\MathsPortfolio2.pdb

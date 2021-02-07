@@ -1,0 +1,5 @@
+C:\Users\Brandon\source\repos\Breakaway\Breakaway\obj\Debug\Breakaway.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Breakaway\Breakaway\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Brandon\source\repos\Breakaway\Breakaway\obj\Debug\Breakaway.Properties.Resources.resources
+C:\Users\Brandon\source\repos\Breakaway\Breakaway\obj\Debug\Breakaway.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\Breakaway\Breakaway\obj\Debug\Breakaway.csproj.CoreCompileInputs.cache

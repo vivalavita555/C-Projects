@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XToO2+gUPPYIm1EBZ5/EGg0JEbFxOgFOigcZqcteBIUpKmYDw3H55CClBNuXcHrMOcljoFRRH+sFtBAXIwftAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vival\\Documents\\Visual Studio 2019\\Projects\\MethodOverride\\MethodOverride\\MethodOverride.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vival\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

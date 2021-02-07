@@ -1,0 +1,13 @@
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.exe
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.deps.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.runtimeconfig.dev.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.AssemblyInfo.cs
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.dll
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp3.1\AbstractClasses.genruntimeconfig.cache

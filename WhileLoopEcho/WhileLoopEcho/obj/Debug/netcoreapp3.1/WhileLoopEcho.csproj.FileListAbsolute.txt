@@ -1,0 +1,13 @@
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\bin\Debug\netcoreapp3.1\WhileLoopEcho.exe
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\bin\Debug\netcoreapp3.1\WhileLoopEcho.deps.json
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\bin\Debug\netcoreapp3.1\WhileLoopEcho.runtimeconfig.json
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\bin\Debug\netcoreapp3.1\WhileLoopEcho.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\bin\Debug\netcoreapp3.1\WhileLoopEcho.dll
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\bin\Debug\netcoreapp3.1\WhileLoopEcho.pdb
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\obj\Debug\netcoreapp3.1\WhileLoopEcho.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\obj\Debug\netcoreapp3.1\WhileLoopEcho.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\obj\Debug\netcoreapp3.1\WhileLoopEcho.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\obj\Debug\netcoreapp3.1\WhileLoopEcho.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\obj\Debug\netcoreapp3.1\WhileLoopEcho.dll
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\obj\Debug\netcoreapp3.1\WhileLoopEcho.pdb
+C:\Users\Brandon\source\repos\WhileLoopEcho\WhileLoopEcho\obj\Debug\netcoreapp3.1\WhileLoopEcho.genruntimeconfig.cache

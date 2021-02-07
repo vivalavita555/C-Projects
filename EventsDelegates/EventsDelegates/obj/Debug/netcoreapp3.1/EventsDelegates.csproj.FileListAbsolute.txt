@@ -1,0 +1,13 @@
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\bin\Debug\netcoreapp3.1\EventsDelegates.exe
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\bin\Debug\netcoreapp3.1\EventsDelegates.deps.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\bin\Debug\netcoreapp3.1\EventsDelegates.runtimeconfig.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\bin\Debug\netcoreapp3.1\EventsDelegates.runtimeconfig.dev.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\bin\Debug\netcoreapp3.1\EventsDelegates.dll
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\bin\Debug\netcoreapp3.1\EventsDelegates.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.csprojAssemblyReference.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.AssemblyInfoInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.AssemblyInfo.cs
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.csproj.CoreCompileInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.dll
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\EventsDelegates\EventsDelegates\obj\Debug\netcoreapp3.1\EventsDelegates.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\obj\Debug\netcoreapp3.1\Block2Ex4NumberGuess.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\obj\Debug\netcoreapp3.1\Block2Ex4NumberGuess.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\obj\Debug\netcoreapp3.1\Block2Ex4NumberGuess.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\obj\Debug\netcoreapp3.1\Block2Ex4NumberGuess.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\bin\Debug\netcoreapp3.1\Block2Ex4NumberGuess.exe
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\bin\Debug\netcoreapp3.1\Block2Ex4NumberGuess.deps.json
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\bin\Debug\netcoreapp3.1\Block2Ex4NumberGuess.runtimeconfig.json
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\bin\Debug\netcoreapp3.1\Block2Ex4NumberGuess.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\bin\Debug\netcoreapp3.1\Block2Ex4NumberGuess.dll
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\bin\Debug\netcoreapp3.1\Block2Ex4NumberGuess.pdb
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\obj\Debug\netcoreapp3.1\Block2Ex4NumberGuess.dll
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\obj\Debug\netcoreapp3.1\Block2Ex4NumberGuess.pdb
+C:\Users\Brandon\source\repos\Block2Ex4NumberGuess\Block2Ex4NumberGuess\obj\Debug\netcoreapp3.1\Block2Ex4NumberGuess.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Block2Ex4NumberGuess/1.0.0": {
+        "runtime": {
+          "Block2Ex4NumberGuess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Block2Ex4NumberGuess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

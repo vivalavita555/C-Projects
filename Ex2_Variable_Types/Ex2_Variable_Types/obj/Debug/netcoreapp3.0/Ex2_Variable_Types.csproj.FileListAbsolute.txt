@@ -1,0 +1,11 @@
+C:\Users\Brandon\source\repos\Ex2_Variable_Types\Ex2_Variable_Types\bin\Debug\netcoreapp3.0\Ex2_Variable_Types.exe
+C:\Users\Brandon\source\repos\Ex2_Variable_Types\Ex2_Variable_Types\bin\Debug\netcoreapp3.0\Ex2_Variable_Types.deps.json
+C:\Users\Brandon\source\repos\Ex2_Variable_Types\Ex2_Variable_Types\bin\Debug\netcoreapp3.0\Ex2_Variable_Types.runtimeconfig.json
+C:\Users\Brandon\source\repos\Ex2_Variable_Types\Ex2_Variable_Types\bin\Debug\netcoreapp3.0\Ex2_Variable_Types.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\Ex2_Variable_Types\Ex2_Variable_Types\bin\Debug\netcoreapp3.0\Ex2_Variable_Types.dll
+C:\Users\Brandon\source\repos\Ex2_Variable_Types\Ex2_Variable_Types\bin\Debug\netcoreapp3.0\Ex2_Variable_Types.pdb
+C:\Users\Brandon\source\repos\Ex2_Variable_Types\Ex2_Variable_Types\obj\Debug\netcoreapp3.0\Ex2_Variable_Types.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Ex2_Variable_Types\Ex2_Variable_Types\obj\Debug\netcoreapp3.0\Ex2_Variable_Types.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\Ex2_Variable_Types\Ex2_Variable_Types\obj\Debug\netcoreapp3.0\Ex2_Variable_Types.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\Ex2_Variable_Types\Ex2_Variable_Types\obj\Debug\netcoreapp3.0\Ex2_Variable_Types.dll
+C:\Users\Brandon\source\repos\Ex2_Variable_Types\Ex2_Variable_Types\obj\Debug\netcoreapp3.0\Ex2_Variable_Types.pdb

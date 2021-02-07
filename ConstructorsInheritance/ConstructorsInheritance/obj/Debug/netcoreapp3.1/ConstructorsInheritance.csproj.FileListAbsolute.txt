@@ -1,0 +1,13 @@
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\bin\Debug\netcoreapp3.1\ConstructorsInheritance.exe
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\bin\Debug\netcoreapp3.1\ConstructorsInheritance.deps.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\bin\Debug\netcoreapp3.1\ConstructorsInheritance.runtimeconfig.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\bin\Debug\netcoreapp3.1\ConstructorsInheritance.runtimeconfig.dev.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\bin\Debug\netcoreapp3.1\ConstructorsInheritance.dll
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\bin\Debug\netcoreapp3.1\ConstructorsInheritance.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\obj\Debug\netcoreapp3.1\ConstructorsInheritance.csprojAssemblyReference.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\obj\Debug\netcoreapp3.1\ConstructorsInheritance.AssemblyInfoInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\obj\Debug\netcoreapp3.1\ConstructorsInheritance.AssemblyInfo.cs
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\obj\Debug\netcoreapp3.1\ConstructorsInheritance.csproj.CoreCompileInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\obj\Debug\netcoreapp3.1\ConstructorsInheritance.dll
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\obj\Debug\netcoreapp3.1\ConstructorsInheritance.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\ConstructorsInheritance\ConstructorsInheritance\obj\Debug\netcoreapp3.1\ConstructorsInheritance.genruntimeconfig.cache

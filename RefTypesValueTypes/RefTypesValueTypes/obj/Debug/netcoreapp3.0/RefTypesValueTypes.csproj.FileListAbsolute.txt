@@ -1,0 +1,11 @@
+C:\Users\Brandon\source\repos\RefTypesValueTypes\RefTypesValueTypes\bin\Debug\netcoreapp3.0\RefTypesValueTypes.exe
+C:\Users\Brandon\source\repos\RefTypesValueTypes\RefTypesValueTypes\bin\Debug\netcoreapp3.0\RefTypesValueTypes.deps.json
+C:\Users\Brandon\source\repos\RefTypesValueTypes\RefTypesValueTypes\bin\Debug\netcoreapp3.0\RefTypesValueTypes.runtimeconfig.json
+C:\Users\Brandon\source\repos\RefTypesValueTypes\RefTypesValueTypes\bin\Debug\netcoreapp3.0\RefTypesValueTypes.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\RefTypesValueTypes\RefTypesValueTypes\bin\Debug\netcoreapp3.0\RefTypesValueTypes.dll
+C:\Users\Brandon\source\repos\RefTypesValueTypes\RefTypesValueTypes\bin\Debug\netcoreapp3.0\RefTypesValueTypes.pdb
+C:\Users\Brandon\source\repos\RefTypesValueTypes\RefTypesValueTypes\obj\Debug\netcoreapp3.0\RefTypesValueTypes.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\RefTypesValueTypes\RefTypesValueTypes\obj\Debug\netcoreapp3.0\RefTypesValueTypes.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\RefTypesValueTypes\RefTypesValueTypes\obj\Debug\netcoreapp3.0\RefTypesValueTypes.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\RefTypesValueTypes\RefTypesValueTypes\obj\Debug\netcoreapp3.0\RefTypesValueTypes.dll
+C:\Users\Brandon\source\repos\RefTypesValueTypes\RefTypesValueTypes\obj\Debug\netcoreapp3.0\RefTypesValueTypes.pdb

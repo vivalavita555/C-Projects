@@ -1,0 +1,26 @@
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\bin\Debug\netcoreapp3.1\Block2Ex3Factorials.exe
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\bin\Debug\netcoreapp3.1\Block2Ex3Factorials.deps.json
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\bin\Debug\netcoreapp3.1\Block2Ex3Factorials.runtimeconfig.json
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\bin\Debug\netcoreapp3.1\Block2Ex3Factorials.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\bin\Debug\netcoreapp3.1\Block2Ex3Factorials.dll
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\bin\Debug\netcoreapp3.1\Block2Ex3Factorials.pdb
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.dll
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.pdb
+C:\Users\Brandon\source\repos\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.genruntimeconfig.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\bin\Debug\netcoreapp3.1\Block2Ex3Factorials.exe
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\bin\Debug\netcoreapp3.1\Block2Ex3Factorials.deps.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\bin\Debug\netcoreapp3.1\Block2Ex3Factorials.runtimeconfig.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\bin\Debug\netcoreapp3.1\Block2Ex3Factorials.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\bin\Debug\netcoreapp3.1\Block2Ex3Factorials.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\bin\Debug\netcoreapp3.1\Block2Ex3Factorials.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\Block2Ex3Factorials\Block2Ex3Factorials\obj\Debug\netcoreapp3.1\Block2Ex3Factorials.genruntimeconfig.cache

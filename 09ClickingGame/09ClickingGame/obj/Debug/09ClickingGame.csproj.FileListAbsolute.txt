@@ -1,0 +1,30 @@
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\bin\Debug\09ClickingGame.exe.config
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\bin\Debug\09ClickingGame.exe
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\bin\Debug\09ClickingGame.pdb
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\obj\Debug\MainWindow.g.cs
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\obj\Debug\App.g.cs
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame_MarkupCompile.cache
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame_MarkupCompile.lref
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\obj\Debug\MainWindow.baml
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame.g.resources
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\obj\Debug\_09ClickingGame.Properties.Resources.resources
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame.csproj.GenerateResource.Cache
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame.csproj.CoreCompileInputs.cache
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame.exe
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame.pdb
+c:\users\vyhna\source\repos\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame.csprojResolveAssemblyReference.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\bin\Debug\09ClickingGame.exe.config
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\bin\Debug\09ClickingGame.exe
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\bin\Debug\09ClickingGame.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame.csprojAssemblyReference.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\obj\Debug\MainWindow.g.cs
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\obj\Debug\App.g.cs
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame_MarkupCompile.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame_MarkupCompile.lref
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\obj\Debug\MainWindow.baml
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame.g.resources
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\obj\Debug\_09ClickingGame.Properties.Resources.resources
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame.csproj.GenerateResource.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame.csproj.CoreCompileInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame.exe
+C:\Users\vival\Documents\Visual Studio 2019\Projects\09ClickingGame\09ClickingGame\obj\Debug\09ClickingGame.pdb

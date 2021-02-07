@@ -1,0 +1,7 @@
+C:\Users\Brandon\Downloads\MathsPortfolio1\MathsPortfolio1\MathsPortfolio1\bin\Debug\MathsPortfolio1.exe.config
+C:\Users\Brandon\Downloads\MathsPortfolio1\MathsPortfolio1\MathsPortfolio1\bin\Debug\MathsPortfolio1.exe
+C:\Users\Brandon\Downloads\MathsPortfolio1\MathsPortfolio1\MathsPortfolio1\bin\Debug\MathsPortfolio1.pdb
+C:\Users\Brandon\Downloads\MathsPortfolio1\MathsPortfolio1\MathsPortfolio1\obj\Debug\MathsPortfolio1.csprojAssemblyReference.cache
+C:\Users\Brandon\Downloads\MathsPortfolio1\MathsPortfolio1\MathsPortfolio1\obj\Debug\MathsPortfolio1.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Downloads\MathsPortfolio1\MathsPortfolio1\MathsPortfolio1\obj\Debug\MathsPortfolio1.exe
+C:\Users\Brandon\Downloads\MathsPortfolio1\MathsPortfolio1\MathsPortfolio1\obj\Debug\MathsPortfolio1.pdb

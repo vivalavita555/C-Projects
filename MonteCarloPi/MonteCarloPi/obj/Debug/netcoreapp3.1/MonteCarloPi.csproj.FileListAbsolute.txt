@@ -1,0 +1,13 @@
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\bin\Debug\netcoreapp3.1\MonteCarloPi.exe
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\bin\Debug\netcoreapp3.1\MonteCarloPi.deps.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\bin\Debug\netcoreapp3.1\MonteCarloPi.runtimeconfig.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\bin\Debug\netcoreapp3.1\MonteCarloPi.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\bin\Debug\netcoreapp3.1\MonteCarloPi.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\bin\Debug\netcoreapp3.1\MonteCarloPi.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\obj\Debug\netcoreapp3.1\MonteCarloPi.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\obj\Debug\netcoreapp3.1\MonteCarloPi.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\obj\Debug\netcoreapp3.1\MonteCarloPi.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\obj\Debug\netcoreapp3.1\MonteCarloPi.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\obj\Debug\netcoreapp3.1\MonteCarloPi.dll
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\obj\Debug\netcoreapp3.1\MonteCarloPi.pdb
+C:\Users\Brandon\Documents\Visual Studio 2019\Projects\MonteCarloPi\MonteCarloPi\obj\Debug\netcoreapp3.1\MonteCarloPi.genruntimeconfig.cache

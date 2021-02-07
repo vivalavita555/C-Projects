@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oHVRJ3CDQV6oCOb6pkF3a5oXPeqRZiiaL4/cmk5wXgkNZcdQaS4/hRox2TSm9z+u5w063qvaQpqjw25jk4ZEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vival\\Documents\\Visual Studio 2019\\Projects\\AbstractClasses\\AbstractClasses\\AbstractClasses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vival\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\Brandon\source\repos\SpeedCamera\SpeedCamera\obj\Debug\netcoreapp3.0\SpeedCamera.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\SpeedCamera\SpeedCamera\obj\Debug\netcoreapp3.0\SpeedCamera.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\SpeedCamera\SpeedCamera\obj\Debug\netcoreapp3.0\SpeedCamera.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\SpeedCamera\SpeedCamera\bin\Debug\netcoreapp3.0\SpeedCamera.exe
+C:\Users\Brandon\source\repos\SpeedCamera\SpeedCamera\bin\Debug\netcoreapp3.0\SpeedCamera.deps.json
+C:\Users\Brandon\source\repos\SpeedCamera\SpeedCamera\bin\Debug\netcoreapp3.0\SpeedCamera.runtimeconfig.json
+C:\Users\Brandon\source\repos\SpeedCamera\SpeedCamera\bin\Debug\netcoreapp3.0\SpeedCamera.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\SpeedCamera\SpeedCamera\bin\Debug\netcoreapp3.0\SpeedCamera.dll
+C:\Users\Brandon\source\repos\SpeedCamera\SpeedCamera\bin\Debug\netcoreapp3.0\SpeedCamera.pdb
+C:\Users\Brandon\source\repos\SpeedCamera\SpeedCamera\obj\Debug\netcoreapp3.0\SpeedCamera.dll
+C:\Users\Brandon\source\repos\SpeedCamera\SpeedCamera\obj\Debug\netcoreapp3.0\SpeedCamera.pdb

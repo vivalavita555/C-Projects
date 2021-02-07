@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zNleVVTyhRCQvZGLaAgqCTPFhKs3K/xkHOy8hPSY5CFcXcqjRVsGwgTZmsuzjDsvhcghr7P6NEZpc6v24bSX6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vival\\Documents\\Visual Studio 2019\\Projects\\Boxing\\Boxing\\Boxing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vival\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

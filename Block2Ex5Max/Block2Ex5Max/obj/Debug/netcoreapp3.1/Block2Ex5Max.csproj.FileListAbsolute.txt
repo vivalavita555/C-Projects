@@ -1,0 +1,13 @@
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\bin\Debug\netcoreapp3.1\Block2Ex5Max.exe
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\bin\Debug\netcoreapp3.1\Block2Ex5Max.deps.json
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\bin\Debug\netcoreapp3.1\Block2Ex5Max.runtimeconfig.json
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\bin\Debug\netcoreapp3.1\Block2Ex5Max.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\bin\Debug\netcoreapp3.1\Block2Ex5Max.dll
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\bin\Debug\netcoreapp3.1\Block2Ex5Max.pdb
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\obj\Debug\netcoreapp3.1\Block2Ex5Max.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\obj\Debug\netcoreapp3.1\Block2Ex5Max.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\obj\Debug\netcoreapp3.1\Block2Ex5Max.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\obj\Debug\netcoreapp3.1\Block2Ex5Max.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\obj\Debug\netcoreapp3.1\Block2Ex5Max.dll
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\obj\Debug\netcoreapp3.1\Block2Ex5Max.pdb
+C:\Users\Brandon\source\repos\Block2Ex5Max\Block2Ex5Max\obj\Debug\netcoreapp3.1\Block2Ex5Max.genruntimeconfig.cache

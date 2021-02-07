@@ -1,0 +1,13 @@
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.exe
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.deps.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.runtimeconfig.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.runtimeconfig.dev.json
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.dll
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\bin\Debug\netcoreapp3.1\Boxing.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.csprojAssemblyReference.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.AssemblyInfoInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.AssemblyInfo.cs
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.csproj.CoreCompileInputs.cache
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.dll
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.pdb
+C:\Users\vival\Documents\Visual Studio 2019\Projects\Boxing\Boxing\obj\Debug\netcoreapp3.1\Boxing.genruntimeconfig.cache

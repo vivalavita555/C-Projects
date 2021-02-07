@@ -1,0 +1,11 @@
+C:\Users\Brandon\source\repos\ForLoop\ForLoop\bin\Debug\netcoreapp3.0\ForLoop.exe
+C:\Users\Brandon\source\repos\ForLoop\ForLoop\bin\Debug\netcoreapp3.0\ForLoop.deps.json
+C:\Users\Brandon\source\repos\ForLoop\ForLoop\bin\Debug\netcoreapp3.0\ForLoop.runtimeconfig.json
+C:\Users\Brandon\source\repos\ForLoop\ForLoop\bin\Debug\netcoreapp3.0\ForLoop.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\ForLoop\ForLoop\bin\Debug\netcoreapp3.0\ForLoop.dll
+C:\Users\Brandon\source\repos\ForLoop\ForLoop\bin\Debug\netcoreapp3.0\ForLoop.pdb
+C:\Users\Brandon\source\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.0\ForLoop.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.0\ForLoop.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.0\ForLoop.dll
+C:\Users\Brandon\source\repos\ForLoop\ForLoop\obj\Debug\netcoreapp3.0\ForLoop.pdb

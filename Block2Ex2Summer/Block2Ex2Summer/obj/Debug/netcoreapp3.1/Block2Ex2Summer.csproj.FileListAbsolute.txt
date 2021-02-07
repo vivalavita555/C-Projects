@@ -1,0 +1,13 @@
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\bin\Debug\netcoreapp3.1\Block2Ex2Summer.exe
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\bin\Debug\netcoreapp3.1\Block2Ex2Summer.deps.json
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\bin\Debug\netcoreapp3.1\Block2Ex2Summer.runtimeconfig.json
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\bin\Debug\netcoreapp3.1\Block2Ex2Summer.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\bin\Debug\netcoreapp3.1\Block2Ex2Summer.dll
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\bin\Debug\netcoreapp3.1\Block2Ex2Summer.pdb
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\obj\Debug\netcoreapp3.1\Block2Ex2Summer.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\obj\Debug\netcoreapp3.1\Block2Ex2Summer.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\obj\Debug\netcoreapp3.1\Block2Ex2Summer.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\obj\Debug\netcoreapp3.1\Block2Ex2Summer.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\obj\Debug\netcoreapp3.1\Block2Ex2Summer.dll
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\obj\Debug\netcoreapp3.1\Block2Ex2Summer.pdb
+C:\Users\Brandon\source\repos\Block2Ex2Summer\Block2Ex2Summer\obj\Debug\netcoreapp3.1\Block2Ex2Summer.genruntimeconfig.cache

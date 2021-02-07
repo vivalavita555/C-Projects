@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning CSH", "Learning CSH\Learning CSH.csproj", "{C914FD63-C836-4391-A859-46295C170CE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C914FD63-C836-4391-A859-46295C170CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C914FD63-C836-4391-A859-46295C170CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C914FD63-C836-4391-A859-46295C170CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C914FD63-C836-4391-A859-46295C170CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C495E1D-4147-4401-BC84-C56173B81B46}
+	EndGlobalSection
+EndGlobal

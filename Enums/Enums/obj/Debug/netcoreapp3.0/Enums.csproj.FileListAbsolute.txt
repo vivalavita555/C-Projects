@@ -1,0 +1,11 @@
+C:\Users\Brandon\source\repos\Enums\Enums\obj\Debug\netcoreapp3.0\Enums.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\Enums\Enums\obj\Debug\netcoreapp3.0\Enums.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\Enums\Enums\obj\Debug\netcoreapp3.0\Enums.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\Enums\Enums\bin\Debug\netcoreapp3.0\Enums.exe
+C:\Users\Brandon\source\repos\Enums\Enums\bin\Debug\netcoreapp3.0\Enums.deps.json
+C:\Users\Brandon\source\repos\Enums\Enums\bin\Debug\netcoreapp3.0\Enums.runtimeconfig.json
+C:\Users\Brandon\source\repos\Enums\Enums\bin\Debug\netcoreapp3.0\Enums.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\Enums\Enums\bin\Debug\netcoreapp3.0\Enums.dll
+C:\Users\Brandon\source\repos\Enums\Enums\bin\Debug\netcoreapp3.0\Enums.pdb
+C:\Users\Brandon\source\repos\Enums\Enums\obj\Debug\netcoreapp3.0\Enums.dll
+C:\Users\Brandon\source\repos\Enums\Enums\obj\Debug\netcoreapp3.0\Enums.pdb
